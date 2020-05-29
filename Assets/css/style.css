@@ -209,10 +209,10 @@ hr {
     position: relative;
 }
 
-.intro .container div {
+/* .intro .container div {
     margin-left: 720px;
     margin-bottom: 56px;
-}
+} */
 
 .intro h3,
 .portfolio h3 {
@@ -239,12 +239,12 @@ hr {
 
 /*User*/
 
-.user-image {
+/* .user-image {
     position: absolute;
     padding: 0;
     margin: 0;
     top: 200px;
-}
+} */
 
 .user-image img {
     width: 500px;
@@ -417,4 +417,32 @@ hr {
 .button:active {
     background-color: #b69e4b;
     box-shadow: none;
+}
+
+.my-projects {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.biography__content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.project {
+    width: 448px;
+}
+
+.biography__photo {
+    width: 500px;
+}
+
+.biography__text {
+    width: 700px;
+}
+
+.biography__skills {
+    margin: 20px;
 }
