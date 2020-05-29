@@ -7,7 +7,7 @@ body {
     line-height: 32px;
     color: #f2f2f2;
     background-color: #141530;
-    background-image: url("/img/pattern-lines-hero.svg");
+    background-image: url("/Assets/images/icons/pattern-lines-hero.svg");
     background-position: center;
 }
 
@@ -82,42 +82,42 @@ hr {
 .header-email,
 .footer-email {
     padding-left: 28px;
-    background-image: url("/img/icon-email.svg");
+    background-image: url("/Assets/images/icons/icon-email.svg");
 }
 
 .header-email:focus,
 .header-email:hover,
 .footer-email:focus,
 .footer-email:hover {
-    background-image: url("/img/icon-email-alt.svg");
+    background-image: url("/Assets/images/icons/icon-email-alt.svg");
 }
 
 .header-phone,
 .footer-phone {
     padding-left: 21px;
-    background-image: url("/img/icon-phone.svg");
+    background-image: url("/Assets/images/icons/icon-phone.svg");
 }
 
 .header-phone:focus,
 .header-phone:hover,
 .footer-phone:focus,
 .footer-phone:hover {
-    background-image: url("/img/icon-phone-alt.svg");
+    background-image: url("/Assets/images/icons/icon-phone-alt.svg");
 }
 
 .footer-git {
     padding-left: 40px;
-    background-image: url("/img/footer-git.svg");
+    background-image: url("/Assets/images/icons/footer-git.svg");
 }
 
 .footer-tg {
     padding-left: 40px;
-    background-image: url("/img/footer-tg.svg");
+    background-image: url("/Assets/images/icons/footer-tg.svg");
 }
 
 .footer-vk {
     padding-left: 40px;
-    background-image: url("/img/footer-vk.svg");
+    background-image: url("/Assets/images/icons/footer-vk.svg");
 }
 
 .page-header a:active,
@@ -129,7 +129,7 @@ hr {
     position: relative;
     padding-top: 200px;
     height: 798px;
-    background-image: url("/img/bg-html.png");
+    background-image: url("/Assets/images/bg-html.png");
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: 48px;
@@ -150,7 +150,7 @@ hr {
     left: calc(50vw - 32px);
     width: 800px;
     height: 800px;
-    background-image: url("/img/hero-image.svg");
+    background-image: url("/Assets/images/icons/hero-image.svg");
     background-repeat: no-repeat;
 }
 
@@ -161,7 +161,7 @@ hr {
     width: 100%;
     bottom: 0;
     background-color: #0b0c23;
-    background-image: url("/img/bg-tags.svg");
+    background-image: url("/Assets/images/bg-tags.svg");
     background-position: center;
     background-repeat: no-repeat;
     border-top: 2px solid #5053a8;
@@ -194,7 +194,7 @@ hr {
 .intro,
 .portfolio {
     background-color: #141530;
-    background-image: url("/img/pattern-lines.svg");
+    background-image: url("/Assets/images/icons/pattern-lines.svg");
     background-repeat: repeat-y;
     background-position-x: center;
 }
@@ -208,6 +208,7 @@ hr {
 .intro .container {
     position: relative;
 }
+
 
 /* .intro .container div {
     margin-left: 720px;
@@ -238,6 +239,7 @@ hr {
 
 
 /*User*/
+
 
 /* .user-image {
     position: absolute;
@@ -279,31 +281,31 @@ hr {
 }
 
 .skill-html {
-    background-image: url("/img/icon-html.svg");
+    background-image: url("/Assets/images/icons/icon-html.svg");
 }
 
 .skill-css {
-    background-image: url("/img/icon-css.svg");
+    background-image: url("/Assets/images/icons/icon-css.svg");
 }
 
 .skill-js {
-    background-image: url("/img/icon-js.svg");
+    background-image: url("/Assets/images/icons/icon-js.svg");
 }
 
 .skill-CSharp {
-    background-image: url("/img/icon-cSharp.svg");
+    background-image: url("/Assets/images/icons/icon-cSharp.svg");
 }
 
 .skill-Cpp {
-    background-image: url("/img/icon-c-pp.svg");
+    background-image: url("/Assets/images/icons/icon-c-pp.svg");
 }
 
 .skill-UE4 {
-    background-image: url("/img/icon-UE4.svg");
+    background-image: url("/Assets/images/icons/icon-UE4.svg");
 }
 
 .skill-JQ {
-    background-image: url("/img/icon-jquery.svg");
+    background-image: url("/Assets/images/icons/icon-jquery.svg");
 }
 
 
@@ -325,15 +327,15 @@ hr {
 }
 
 .lang-bel {
-    background-image: url("/img/icon-belarus.svg");
+    background-image: url("/Assets/images/icons/icon-belarus.svg");
 }
 
 .lang-ru {
-    background-image: url("/img/icon-russia.svg");
+    background-image: url("/Assets/images/icons/icon-russia.svg");
 }
 
 .lang-eng {
-    background-image: url("/img/icon-eng.svg");
+    background-image: url("/Assets/images/icons/icon-eng.svg");
 }
 
 .level {
@@ -352,7 +354,7 @@ hr {
     letter-spacing: 1px;
     line-height: 26px;
     background-color: #5053a8;
-    background-image: url("/img/progress-pattern.svg");
+    background-image: url("/Assets/images/icons/progress-pattern.svg");
 }
 
 
